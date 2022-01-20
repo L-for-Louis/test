@@ -1,0 +1,85 @@
+{
+  "name": "Eurus Menu",
+  "logoURI": "https://raw.githubusercontent.com/L-for-Louis/test/master/White__eurus_Icon-01.svg",
+  "keywords": ["moonbase", "tokens", "uniswap"],
+  "timestamp": "2022-01-20T08:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x17DEba6E45745D6B72F684a150566001283E4424",
+      "chainId": 2025,
+      "name": "Wrapped EUN",
+      "symbol": "WEUN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/L-for-Louis/test/master/eurus_Icon-01.svg"
+    },
+    {
+      "address": "0xc49b260B66f57a88f5e44CFBcCA2e9382879E0A2",
+      "chainId": 2025,
+      "name": "PlastiCoin",
+      "symbol": "GAO",
+      "decimals": 18,
+      "logoURI": "https://static.wikia.nocookie.net/evchk/images/9/9c/HKGolden_Plastic_Icon.svg"
+    },
+    {
+      "address": "0x84479A80707D746953Ef24dc24cF8820116c3e8c",
+      "chainId": 2025,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "address": "0xC56743422c75098C2E2EBc2B78351e3702D5EAdd",
+      "chainId": 2025,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "address": "0xa54Dee79c3bB34251DEbf86C1BA7D21898FFb7AC",
+      "chainId": 2025,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/L-for-Louis/test/master/usdt_Icon-01.svg"
+    },
+    {
+      "address": "0x80028767e4925e4e20183dc76aB070a62985Facb",
+      "chainId": 2025,
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+    },
+    {
+      "address": "0x0A314F415F8EB4e58cCF962F1b559EB5562c058c",
+      "chainId": 2025,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://gemini.com/images/currencies/icons/default/mkr.svg"
+    },
+    {
+      "address": "0xE9C5aEb38a7e8762116CBE4a281a20ac12F89977",
+      "chainId": 2025,
+      "name": "Compound Dai",
+      "symbol": "cDAI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+    },
+    {
+      "address": "0x166F79582d5127F878426a1876c8ae98FD25fD61",
+      "chainId": 2025,
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
