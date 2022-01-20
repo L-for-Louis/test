@@ -75,11 +75,27 @@
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"
+    },
+    {
+      "address": "0xF315C42A288856EbEA75152B2bb83C23084A739F",
+      "chainId": 2025,
+      "name": "On9 Token",
+      "symbol": "ON9",
+      "decimals": 18,
+      "logoURI": "https://static.wikia.nocookie.net/evchk/images/9/9c/HKGolden_Plastic_Icon.svg"
+    },
+    {
+      "address": "0x5a6e2a65b08b0224e085C594e08d9780F4B32E6B",
+      "chainId": 2025,
+      "name": "On99 Token",
+      "symbol": "ON99",
+      "decimals": 18,
+      "logoURI": "https://static.wikia.nocookie.net/evchk/images/9/9c/HKGolden_Plastic_Icon.svg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
